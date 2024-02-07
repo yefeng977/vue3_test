@@ -3,11 +3,9 @@
 </template>
 
 <script lang="ts" setup name="App">
-  for(let i=0;i<100;i++)
-  {
-    console.log(i);
-  }
+for (let i = 0; i < 100; i++) {
+  console.log(i)
+}
 </script>
 
-<style>
-</style>
+<style></style>
